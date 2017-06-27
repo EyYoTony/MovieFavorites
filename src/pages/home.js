@@ -21,7 +21,7 @@ const Home = function() {
             />
             <ImageListItem
               id={1}
-              title="What about Bob?"
+              title="What about bob?"
               image="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxMjU2ODk4N15BMl5BanBnXkFtZTgwODQzNTcxMTE@._V1_SX300.jpg"
               link={<LinkButton to="/show/1">Details</LinkButton>}
             />
